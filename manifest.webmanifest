@@ -1,0 +1,18 @@
+{
+  "name": "ReLoop — Local field guide",
+  "short_name": "ReLoop",
+  "description": "Local-only waste-reduction plans with illustrative assumptions.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3eb",
+  "theme_color": "#183d30",
+  "icons": [
+    {
+      "src": "./assets/mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
